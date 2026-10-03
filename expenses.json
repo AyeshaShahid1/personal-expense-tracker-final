@@ -1,0 +1,19 @@
+[
+    {
+        "type": "income",
+        "amount": 100000.0,
+        "description": "job"
+    },
+    {
+        "type": "expense",
+        "amount": 1500.0,
+        "category": "transport",
+        "description": "taxi"
+    },
+    {
+        "type": "expense",
+        "amount": 300.0,
+        "category": "food",
+        "description": "lunch"
+    }
+]
